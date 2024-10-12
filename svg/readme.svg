@@ -1,11 +1,11 @@
 <svg fill="none" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display: block">
-      <script>
+    <script>
         function a(){
         alert("oi");
         }
       </script>
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: block">
       <style>
         nav{
           width: 100%;
