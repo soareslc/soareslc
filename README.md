@@ -1,5 +1,4 @@
-<body>
-    
+
     <nav id="tecnologias">
 
     </nav>
@@ -8,4 +7,4 @@
     </main>
     <footer id="acoes"></footer>
     <script src="assets/script.js"></script>
-</body>
+
