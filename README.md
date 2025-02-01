@@ -3,5 +3,7 @@
     <button id="botao">enviar</button>
 </main>
 <footer id="acoes"></footer>
-<script src="assets/script.js"></script>
+<script>
+ alert("a");
+</script>
 
