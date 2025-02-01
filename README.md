@@ -1,9 +1,9 @@
-<nav id="tecnologias"></nav>
- <main id="projetos">
-    <button id="botao">enviar</button>
-</main>
-<footer id="acoes"></footer>
-<script>
- alert("a");
-</script>
+<div></div>
+<style>
+ div{
+   border: 1px solid black;
+   height: 300px;
+   width: 100px;
+  }
+</style>
 
